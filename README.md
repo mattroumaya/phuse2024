@@ -4,7 +4,7 @@ PHUSE US Connect 2024
 
 ## Agenda
 
-The full agenda is [here](https://phuse.s3.eu-central-1.amazonaws.com/Events/2024/US+Connect+2024/US+Connect+Full+Agenda.pdf)https://phuse.s3.eu-central-1.amazonaws.com/Events/2024/US+Connect+2024/US+Connect+Full+Agenda.pdf.
+The full agenda is [here](https://phuse.s3.eu-central-1.amazonaws.com/Events/2024/US+Connect+2024/US+Connect+Full+Agenda.pdf).
 
 ### SM11: Leveraging GitHub Actions and Continuous Integration in R Package Qualification
 
